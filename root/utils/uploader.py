@@ -35,6 +35,7 @@ async def uploader(bot,file, update, msg,as_file=False):
     filename = " ".join(afilename.split(".")[0:-1])
     if Config.CUSTOM_CAPTION:
          filename = filename + "\n" + Config.CUSTOM_CAPTION
+         filename = f"**{filename}**"
     # Thumb Location parameter 
     thumb_location = Config.DOWNLOAD_LOCATION + "/thumb/" + str(update.chat.id) + ".jpg" 
     thumb_image_path = None
