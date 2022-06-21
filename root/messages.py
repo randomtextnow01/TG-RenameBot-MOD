@@ -6,5 +6,4 @@ class Translation(object):
     DOWNLOAD_FAIL_MSG = "**Failed to Download File**❎"
     UPLOAD_MSG = "**Uploading** 📤"
     UPLOAD_FAIL_MSG = "**Failed to Upload File**❎"
-    UPLOAD_DONE_MSG = "**Uploaded Successfully 💡** \n **✅ Thanks for Using Me...!😌** \n
-**__Made Love❤️with @PokeTide**__"
+    UPLOAD_DONE_MSG = "**Uploaded Successfully 💡** \n **✅ Thanks for Using Me...!😌** \n **__Made Love❤️with 💠 @PokeTide 💠**__"
