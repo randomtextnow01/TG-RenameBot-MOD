@@ -75,3 +75,9 @@ log - admin cmd
 ## Credits 
 * Spechide as always ❤️
 * And everyone in this Journey 
+
+# Extra Modification with orginal repo
+* Mono text display of file name before Rename so that user can copy it easily
+* Output file name will come as bold text
+
+* Mod by [💠 @PokeTide 💠](https://t.me/PokeTide) 
