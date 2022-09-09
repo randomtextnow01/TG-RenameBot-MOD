@@ -79,5 +79,6 @@ log - admin cmd
 # Extra Modification with orginal repo
 * Mono text display of file name before Rename so that user can copy it easily
 * Output file name will come as bold text
+* Added Dockerfile
 
 * Mod by [💠 @PokeTide 💠](https://t.me/PokeTide) 
